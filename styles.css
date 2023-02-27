@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+.carousel-item {
+        height: 75vh;
+        width: 100%;
+        background-color: #f2f2f2;
+        
+       }
